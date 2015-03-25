@@ -141,6 +141,8 @@ nav a:focus {
 }
 
 .content .featured .images_featured{
+  max-width: 1216px;
+  text-align: center;
   padding-top: 30px;
 }
 
